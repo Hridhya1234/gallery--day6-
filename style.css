@@ -1,0 +1,12 @@
+.carousel-inner {
+    height: 100px;
+  }
+  
+  .carousel-item{
+      position: absolute;
+      object-fit:cover;
+      top: 10px;
+      left: 5px;
+      min-height: 100px;
+  }
+  
